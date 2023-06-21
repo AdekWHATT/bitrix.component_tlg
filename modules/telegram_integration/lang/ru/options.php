@@ -1,0 +1,3 @@
+<?php
+$MESS["TELEGRAM_INTEGRATION_BOT_TOKEN"] = "Токен бота";
+$MESS["TELEGRAM_INTEGRATION_BOT_NAME"] = "Название бота";
