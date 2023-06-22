@@ -1,3 +1,3 @@
 <?
-$MESS["CSST_TEMPLATE_NAME"] = "Адаптивный шаблон интернет-магазина";
+$MESS["CSST_TEMPLATE_NAME"] = "Тестовый шаблон Bootstrap v777";
 ?>
